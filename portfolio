@@ -62,7 +62,7 @@
 </head>
 <body>
     <header>
-        <h1>Lucy’s UX Portfolio</h1>
+        <h1>Lucy McInerny's UX/UI Portfolio</h1>
     </header>
 
     <main>
@@ -77,13 +77,13 @@
             </div>
             <div class="case-study" onclick="location.href='case-study-3.html';">
                 <img src="case-study-3.jpg" alt="Case Study 3">
-                <h2>Case Study 3: Community Fitness Center App</h2>
+                <h2>Case Study 3: The WARF Community Center App</h2>
             </div>
         </div>
     </main>
 
     <footer>
-        <p>&copy; 2024 Lucy's UX Portfolio</p>
+        <p>&copy; 2024 Lucy McInerny's UX/UI Portfolio</p>
     </footer>
 </body>
 </html>
